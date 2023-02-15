@@ -12,20 +12,20 @@ You can get the official extension from [Chrome Web Store](https://chrome.google
 
 ## Developers Mode
 
-First install npm packages
+- First install npm packages
 
 ```
 npm install
 ```
 
-You can run the extensions in a development mode by running the following command:
+- You can run the extensions in a development mode by running the following command:
 
 ```
 npm run dev
 ```
 
-It should create a `build` folder with the builded plugin.
-Or download the build from here: https://github.com/ChainGPT-org/DevAssist-Extension/blob/main/DevAssist_Package.zip
+- It should create a `build` folder with the builded plugin.
+- Or download the build from here: https://github.com/ChainGPT-org/DevAssist-Extension/blob/main/DevAssist_Package.zip
 
 You can load it to Chrome by:
 
